@@ -14,3 +14,11 @@
    height: 100%;
    padding: 1rem;
 }
+
+.navbar .nav-menu {
+   display: flex;
+}
+.navbar li {
+   padding: 1rem;
+   font-family: 'Sourse Serif 4', sans-serif;text-transform: uppercase;
+}
